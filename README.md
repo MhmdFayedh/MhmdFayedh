@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mohammed
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning Laravel 
-- 📫 How to reach me mohammed@mofayedh.com, twitter: @mofayedh
+- 📫 How to reach me mohammed@mofayedh.com, twitter: @MhmdFayedh
 
 <!---
 mofayedh/mofayedh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
