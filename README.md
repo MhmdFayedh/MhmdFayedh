@@ -8,7 +8,7 @@
 
 - 👀 I’m interested in **Backend development, Frontend development, Laravel, and System Desing**  
 
-- 🔭 I’m currently Working on **my own website**
+- 🔭 I’m currently Working on **VOR Version 2**
 
 - 🌱 I’m currently learning **Redis, Cloud and C++**
 
